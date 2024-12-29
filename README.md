@@ -28,8 +28,6 @@ This project creates an interactive 3D solar system model using **HTML**, **CSS*
   git clone https://github.com/HimKasera/Solar-System-3D.git
    ```
 
-   Replace `<repository-url>` with the URL of your GitHub repository.
-
 #### **2. Set Up Your Local Environment**
    This project can be run entirely in the browser. However, if you want to work with **SCSS** files, you need to compile them into **CSS**.
 
